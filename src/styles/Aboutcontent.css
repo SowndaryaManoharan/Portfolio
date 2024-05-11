@@ -1,0 +1,29 @@
+.about {
+    width: 100%;
+    margin: 3rem 0;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-wrap: wrap;
+    height: 100%;
+}
+
+.about .left {
+    text-align: center;
+    margin: auto;
+    padding: 1rem;
+}
+
+.about .left p{
+     text-align: justify;
+     margin: 1.2rem 5rem;
+}
+
+span {
+    color:rgb(227, 63, 96)
+}
+
+ul li{
+    margin: 1rem 0;
+    list-style-type:circle;
+}
